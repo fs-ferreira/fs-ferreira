@@ -27,4 +27,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-ferreira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/fs-ferreira/fs-ferreira/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/fs-ferreira/fs-ferreira/blob/output/github-contribution-grid-snake.svg) -->
