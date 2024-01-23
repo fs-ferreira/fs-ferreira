@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/fs-ferreira)](https://github.com/fs-ferreira) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ferreira-ab6a8b199/)](https://www.linkedin.com/in/felipe-ferreira-ab6a8b199/)
 
 ## Sobre mim: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
-- 💻 Programador Full Stack nível Júnior/Pleno, com maior experiência em Frameworks Angular.
+- 💻 Programador Full Stack, com maior experiência em Frameworks Angular.
 
 - 📚 Cursando Engenharia da Computação em ESAMC - Campinas pelo ProUni.
 
