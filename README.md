@@ -15,6 +15,7 @@ Desde os 10 anos gastando algumas horas na frente da computador, até que decidi
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![Java](https://img.shields.io/badge/-Java-orange)
 ![Angular](https://img.shields.io/badge/-Angular-red)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![GitLab](https://img.shields.io/badge/-GitLab-orange)
@@ -38,6 +39,6 @@ Atualmente, estou me aprofundando em ReactJS, com tailwind, como linguagem princ
 
 ### 📊 Estatísticas GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fs-ferreira&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=fs-ferreira&layout=compact&langs_count=16&theme=dark")
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fs-ferreira.fs-ferreira)
