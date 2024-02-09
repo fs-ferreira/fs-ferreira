@@ -39,6 +39,6 @@ Atualmente, estou me aprofundando em ReactJS, com tailwind, como linguagem princ
 
 ### 📊 Estatísticas GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=fs-ferreira&layout=compact&langs_count=16&theme=dark")
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=fs-ferreira&layout=compact&langs_count=16&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fs-ferreira.fs-ferreira)
