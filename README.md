@@ -1,30 +1,43 @@
-# Felipe da Silva Ferreira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true" width="29px">
+# Bem-vindo ao meu Git! 👋
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/fs-ferreira)](https://github.com/fs-ferreira) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ferreira-ab6a8b199/)](https://www.linkedin.com/in/felipe-ferreira-ab6a8b199/)
+## Olá, me chamo Felipe
 
-## Sobre mim: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
-- 💻 Programador Full Stack, com maior experiência em Frameworks Angular.
+Desde os 10 anos gastando algumas horas na frente da computador, até que decidi tornar minha diversão em algo útil e produtivo. Quebrando códigos e corrigindo bugs desde os 15 anos.
 
-- 📚 Cursando Engenharia da Computação em ESAMC - Campinas pelo ProUni.
+### 💼 O que eu faço
 
-- 🎵 Entusiasta no mundo da música
+- Desenvolvedor de Software Full Stack
+- 4 a 5 anos de contato com frameworks Angular
+- 2 a 3 anos de Java Spring e bancos de dados relacionais
+- Princial experiência profissional com sistemas ERPs
 
-## Atualmente estudando: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Felipe-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Felipe-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">  
- 
-  
-</div>
+### 🛠️ Tecnologias e Ferramentas
 
-##
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![Angular](https://img.shields.io/badge/-Angular-red)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![GitLab](https://img.shields.io/badge/-GitLab-orange)
+![React](https://img.shields.io/badge/-React-blue)
 
-<div>
-  <a href="https://github.com/fs-ferreira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fs-ferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-ferreira&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+### 🌱 O que estou aprendendo
 
-<!-- ![Snake animation](https://github.com/fs-ferreira/fs-ferreira/blob/output/github-contribution-grid-snake.svg) -->
+Atualmente, estou me aprofundando em ReactJS, com tailwind, como linguagem principal de estudos. Mas também me desbravo em python, arquiteturas a partir de microserviços com mensageria, e as vezes um pouco de Cloud e DevOps.
+
+### 📫 Como me encontrar
+
+- LinkedIn: [Felipe Ferreira](https://www.linkedin.com/in/felipe-ferreira-ab6a8b199/)
+- Email: felipeferreira0811@gmail.com
+
+### ⚡ Curiosidades
+
+- Toco guitarra 🎸
+- Sou viciado em series/filmes de roubos 🏦
+- Desenvolvi meu primeiro aplivativo móvel aos 17 anos como projeto de conclusão de curso. 📱
+- Gosto de criar scripts de automação, principalmente de deploy, para facilitar meu trabalho 😁
+
+### 📊 Estatísticas GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fs-ferreira&show_icons=true&theme=dark)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fs-ferreira.fs-ferreira)
