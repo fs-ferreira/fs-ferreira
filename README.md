@@ -9,7 +9,7 @@ Desde os 10 anos gastando algumas horas na frente da computador, até que decidi
 - Desenvolvedor de Software Full Stack
 - 4 a 5 anos de contato com frameworks Angular
 - 2 a 3 anos de Java Spring e bancos de dados relacionais
-- Princial experiência profissional com sistemas ERPs
+- Principal experiência profissional com sistemas ERPs
 
 ### 🛠️ Tecnologias e Ferramentas
 
