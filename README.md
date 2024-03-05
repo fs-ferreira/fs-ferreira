@@ -11,6 +11,27 @@ Desde os 10 anos gastando algumas horas na frente da computador, até que decidi
 - 2 a 3 anos de Java Spring e bancos de dados relacionais
 - Principal experiência profissional com sistemas ERPs
 
+## Projetos Acadêmicos
+
+- **(WIP) We Love Pizza - Micro Saas p/ controle de pedidos em pizzarias**
+  - Feito com NextJS, shadcn-ui, next-auth e node.js
+  - [Github - Frontend](https://github.com/fs-ferreira/wlp-frontend)
+  - [Github - Backend](https://github.com/fs-ferreira/wlp-backend)
+  
+- **Primeflix: Listagem de filmes em cartaz**
+  - Feito com ReactJS e Tailwind
+  - [Github](https://github.com/fs-ferreira/primeflix)
+  - [Live code](https://fs-ferreira.github.io/primeflix/)
+
+- **Finance Control App: Gestão de finanças com manipulação de gráficos**
+  - Feito com Angular 12, PrimeNG e PrimeFlex
+  - [Github](https://github.com/fs-ferreira/finance-control-app)
+  - [Live code](https://fs-ferreira.github.io/finance-control-app/)
+
+- **Microservices Docker Env**
+  - Modelo de microserviços escaláveis em containers docker, com integração contínua com git actions.
+  - Feito com Java 21
+  - [Github](https://github.com/fs-ferreira/docker_env)
 ### 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
