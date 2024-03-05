@@ -13,7 +13,7 @@ Desde os 10 anos gastando algumas horas na frente da computador, até que decidi
 
 ## Projetos Acadêmicos
 
-- **(WIP) We Love Pizza - Micro Saas p/ controle de pedidos em pizzarias**
+- **(WIP) We Love Pizza - Micro SaaS p/ controle de pedidos em pizzarias**
   - Feito com NextJS, shadcn-ui, next-auth e node.js
   - [Github - Frontend](https://github.com/fs-ferreira/wlp-frontend)
   - [Github - Backend](https://github.com/fs-ferreira/wlp-backend)
