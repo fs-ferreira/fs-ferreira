@@ -11,7 +11,7 @@ Desde os 10 anos gastando algumas horas na frente da computador, até que decidi
 - 2 a 3 anos de Java Spring e bancos de dados relacionais
 - Principal experiência profissional com sistemas ERPs
   
-Acesse e confira meu 📄 [Portfólio pessoal](https://github.com/fs-ferreira/wlp-frontend](https://fs-ferreira.github.io/portfolio/)
+Acesse e confira meu 📄 [Portfólio pessoal](https://fs-ferreira.github.io/portfolio/)
 
 ## Projetos Acadêmicos
 
