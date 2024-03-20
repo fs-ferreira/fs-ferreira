@@ -10,25 +10,28 @@ Desde os 10 anos gastando algumas horas na frente da computador, até que decidi
 - 4 a 5 anos de contato com frameworks Angular
 - 2 a 3 anos de Java Spring e bancos de dados relacionais
 - Principal experiência profissional com sistemas ERPs
+  
+### Acesse e confira meu [portfólio 📄]([https://github.com/fs-ferreira/wlp-frontend](https://fs-ferreira.github.io/portfolio/))
 
 ## Projetos Acadêmicos
 
-- **(WIP) We Love Pizza - Micro SaaS p/ controle de pedidos em pizzarias**
-  - Feito com NextJS, shadcn-ui, next-auth e node.js
+- **We Love Pizza 🍕 - Micro SaaS p/ controle de pedidos em pizzarias**
+  - Feito com React Native, NextJS, shadcn-ui, next-auth e node.js
   - [Github - Frontend](https://github.com/fs-ferreira/wlp-frontend)
   - [Github - Backend](https://github.com/fs-ferreira/wlp-backend)
+  - [Github - Mobile](https://github.com/fs-ferreira/wlp-mobile)
   
-- **Primeflix: Listagem de filmes em cartaz**
+- **Primeflix 🎞️: Listagem de filmes em cartaz**
   - Feito com ReactJS e Tailwind
   - [Github](https://github.com/fs-ferreira/primeflix)
   - [Live code](https://fs-ferreira.github.io/primeflix/)
 
-- **Finance Control App: Gestão de finanças com manipulação de gráficos**
+- **Finance Control App 💵: Gestão de finanças com manipulação de gráficos**
   - Feito com Angular 12, PrimeNG e PrimeFlex
   - [Github](https://github.com/fs-ferreira/finance-control-app)
   - [Live code](https://fs-ferreira.github.io/finance-control-app/)
 
-- **Microservices Docker Env**
+- **Microservices Docker Env 🐋**
   - Modelo de microserviços escaláveis em containers docker, com integração contínua com git actions.
   - Feito com Java 21
   - [Github](https://github.com/fs-ferreira/docker_env)
