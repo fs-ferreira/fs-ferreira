@@ -21,12 +21,12 @@ Desde os 10 anos gastando algumas horas na frente da computador, até que decidi
   - [Github - Backend](https://github.com/fs-ferreira/wlp-backend)
   - [Github - Mobile](https://github.com/fs-ferreira/wlp-mobile)
   
-- **Primeflix 🎞️: Listagem de filmes em cartaz**
+- **Primeflix 🎞️ - Listagem de filmes em cartaz**
   - Feito com ReactJS e Tailwind
   - [Github](https://github.com/fs-ferreira/primeflix)
   - [Live code](https://fs-ferreira.github.io/primeflix/)
 
-- **Finance Control App 💵: Gestão de finanças com manipulação de gráficos**
+- **Finance Control App 💵 - Gestão de finanças com manipulação de gráficos**
   - Feito com Angular 12, PrimeNG e PrimeFlex
   - [Github](https://github.com/fs-ferreira/finance-control-app)
   - [Live code](https://fs-ferreira.github.io/finance-control-app/)
